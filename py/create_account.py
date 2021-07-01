@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 Script to create an account and output relevant info into a txt file
 
